@@ -1,14 +1,22 @@
 .barra{
+    background-color: rgb(33, 63, 90);
     display: grid;
-    grid-template-columns: 30% 10% 10% 10% 40%;
-    border: 1px solid white;
+    grid-template-columns: 7% 7% 7% 60% 19%;
+    box-shadow: 2px 2px 2px 1px rgba(238, 234, 234, 0.2);
 }
 
 .titulo{
-    text-align: left;
+    text-align: center;
 }
 
-.grid-boton {
-    text-align: center;
+.grid-boton{
+    margin-right: 3px;
+    margin-left: 10px;
+    text-align: left;
     align-self: center;
+    
+}
+
+.grid-carrito {
+align-self: center;
 }
