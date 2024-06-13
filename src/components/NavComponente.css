@@ -1,0 +1,14 @@
+.barra{
+    display: grid;
+    grid-template-columns: 30% 10% 10% 10% 40%;
+    border: 1px solid white;
+}
+
+.titulo{
+    text-align: left;
+}
+
+.grid-boton {
+    text-align: center;
+    align-self: center;
+}
