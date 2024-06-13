@@ -1,7 +1,7 @@
 .barra{
     background-color: rgb(33, 63, 90);
     display: grid;
-    grid-template-columns: 7% 7% 7% 60% 19%;
+    grid-template-columns: 7% 7% 7% 55% 19%;
     box-shadow: 2px 2px 2px 1px rgba(238, 234, 234, 0.2);
 }
 
@@ -11,12 +11,13 @@
 
 .grid-boton{
     margin-right: 3px;
-    margin-left: 10px;
+    margin-left: 20px;
     text-align: left;
     align-self: center;
-    
+    text-size-adjust: auto;
 }
 
 .grid-carrito {
 align-self: center;
+text-align: right;
 }
